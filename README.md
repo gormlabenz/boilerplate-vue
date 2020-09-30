@@ -1,4 +1,5 @@
-# sgriffle-app
+# boilerplate vue
+It contains prerendering, pwa, babel
 
 ## Project setup
 ```
