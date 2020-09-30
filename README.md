@@ -1,5 +1,5 @@
 # boilerplate vue
-It contains prerendering, pwa, babel
+It contains prerendering, pwa, babel, taiwlind
 
 ## Project setup
 ```
